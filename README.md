@@ -67,3 +67,5 @@ Abra o JMeter, carregue `tests/jmeter/LoadTest_FITUP.jmx` e clique no botão **S
 ## Ambientes em Produção
 * **Frontend Web:** Disponível na Vercel (SPA integrada)
 * **Backend REST:** `https://academy-project-fit-up-production.up.railway.app` (Railway Docker Container)
+
+* raphael
